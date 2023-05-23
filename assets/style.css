@@ -3,11 +3,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-body {
-
-flex-direction: column;
-justify-content: flex-end;
-}
 
 header {
   padding: 20px;
