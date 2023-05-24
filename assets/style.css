@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
 }
 
 
@@ -9,7 +10,6 @@ header {
   font-size: 30px;
   font-family: monospace;
   font-weight: bold;
-  background-color: cadetblue;
 
 }
 
@@ -32,10 +32,15 @@ header {
 
 nav { 
    display: inline;
-   background-color: paleturquoise;
+   color: paleturquoise;
    font-family: monospace;
    font-size: 20px;
    padding: 8px;
    text-underline-offset: 7px;
 }
 
+img{
+   display: inline;
+   transform: scale(1.5,1);
+
+}
