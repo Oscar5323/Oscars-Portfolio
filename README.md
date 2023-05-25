@@ -4,7 +4,7 @@
 
 This repo cointains html and css code
 
-Lee Steven helped me on some of the problems i was having he also showed me a code how to direct other to a second page 
+Lee Steven helped me on some faults and wrong terms i was using and thought me different terms
 
 ## Portfolio Site
 
